@@ -65,5 +65,7 @@ This project falls under the ["MIT License"](https://opensource.org/license/mit)
 
 ## Contact
 Chris Ozuna - christophercozuna@gmail.com
+
 Luke Crawford - lukecoscar@gmail.com
+
 Connor McKinnon - connorm0407@gmail.com
