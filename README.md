@@ -2,8 +2,7 @@
 
 ## About the Project
 
-RèsuMatè is a mobile app that empowers students to craft comprehensive and useful rèsumè’s that showcase their professional life journey. It transforms academic achievements, athletic participation, performing arts experience, club memberships, community service hours, honors classes, and more into a professional rèsumè template. This tool will help students highlight their diverse skills and experiences, facilitating a streamlined presentation for college applications, job opportunities, and beyond, all while responding completely to the FBLA topic.
-
+eduDing is a mobile app that empowers students to learn and expand their knowledge through the use of various quizzes that contribute to the well being of their very own "Ding". Each Ding has a unique name, style, and emotion, and must be maintained by providing it with food gained by completing a variety of quizzes. Educationally, eduDing primarily focuses on concepts closely related to SAT-prep, but may also be used in many other academic contexts. Download now and make learning fun.
 ## Program Awards
 
 - 1st Place Texas FBLA Area 7
@@ -36,6 +35,10 @@ eduDing follows, meets, and exceeds all the requirements stated on the [FBLA Mob
 - [Stock Sample Resume Photo](https://aphconnectcenter.org/careerconnect/job-seekers/conducting-a-successful-job-search/building-a-resume-sample-resume/)
 - [Stock Graduation Profile Picture](https://www.pngitem.com/middle/hwxmwwx_graduation-boy-profile-circle-silhouette-circle-hd-png/)
 - [Handshake Icon](https://www.pngitem.com/middle/hwRhTbi_handshake-icon-business-hand-shake-clipart-hd-png/)
+- [User Icon](https://www.flaticon.com/free-icon/user_1144760?term=profile+picture&page=1&position=3&origin=tag&related_id=1144760)
+- [Cutlery Icon](https://www.flaticon.com/free-icon/cutlery_753839?term=food&page=1&position=6&origin=search&related_id=753839)
+- [Heart Icon](https://www.flaticon.com/free-icons/heart)
+- Canva Sources: All assets used under Canva are protected by Canva’s Content License Agreement, pasted [here.](https://www.canva.com/policies/content-license-agreement/)
 
 ## Compatability
 - iOS
@@ -53,12 +56,12 @@ To run your own local copy of eduDing, follow the steps outlined below:
 
 Clone the repository and compile the code in an IDE such as Android Studio, XCode, or Visual Studio Code.
 - Go to Firebase and create an account, as well as a project that supports your emulator OS.
-- Add the following schema into your Firebase: users, userDetails, schoolInformation, club1, club2, volunteer, work1, work2.
+- Add the schema into your Firebase.
 - Then, launch the application, and create your own account on the login page.
 - All saved authentication and backend storage will be saved in your Firebase project.
 
 ### Instructions
-- [All needed instructions](https://docs.google.com/document/d/1xTtMSWbtS4rzUGXthaBMh4KRrSVI7c9VPkO7fi1Cbtc/edit?usp=sharing)
+- [All needed instructions](https://docs.google.com/document/d/1NLaoZG3nDrKQeCRARtf0TWFkVhL9Cd7y6nIb6szFnwE/edit?usp=sharing)
 
 ## License
 This project falls under the ["MIT License"](https://opensource.org/license/mit)
